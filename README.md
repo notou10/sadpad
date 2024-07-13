@@ -41,4 +41,14 @@ case: FFHQ GT 50K images v.s. Generated Images from ProjectedGAN 50K images
 
 
 
+#### citation
 
+@misc{kim2024attributebasedinterpretableevaluation,
+      title={Attribute Based Interpretable Evaluation Metrics for Generative Models}, 
+      author={Dongkyun Kim and Mingi Kwon and Youngjung Uh},
+      year={2024},
+      eprint={2310.17261},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2310.17261}, 
+}
